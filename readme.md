@@ -64,6 +64,16 @@ k.toString(CryptoJS.enc.Utf8)
 pip install PyExecJS2
 ```
 
+### 四、自动化插件的使用
+#### 1、 playwright
+- 参考文档 https://playwright.dev/python/docs/intro#installing-playwright
+```shell
+# install playwright
+pip install pytest-playwright
+# Install the required browsers:
+playwright install
+```
+
 ## 网站汇总
 
 | 网站             | url                                                                                                    | 项目位置                        | 分类                 | 逆向说明                                                                                         |
